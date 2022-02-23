@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=black" alt="badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" alt="badge" />
 </p>
 
 <h3 align="left">Databases:</h3>
