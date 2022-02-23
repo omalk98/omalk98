@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/MSSQL-4A4A55?style=plastic&logo=microsoft-sql-server&logoColor=white" alt="badge" />
-  <img src="https://img.shields.io/badge/Redis-E50914?style=plastic&logo=redis&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" alt="badge" />
 </p>
 
 <h3 align="left">Frameworks:</h3>
