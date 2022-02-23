@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/MSSQL-4A4A55?style=plastic&logo=microsoft-sql-server&logoColor=white" alt="badge" />
-  <img src="https://img.shields.io/badge/Redis-E50914?style=for-the-badge&logo=redis&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/Redis-E50914?style=plastic&logo=redis&logoColor=white" alt="badge" />
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -54,3 +54,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omalk98&theme=blue-green&show_icons=true&locale=en" alt="omalk98" /></p>
+
+My Favorite Editor is <br/>
+<img src="https://img.shields.io/badge/VSCode-12100E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="badge" /> 
