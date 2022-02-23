@@ -45,6 +45,19 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=mui&logoColor=white" alt="badge" />
 </p>
 
+<h3 align="left">Operating Systems:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=plastic&logo=microsoft&logoColor=white" alt="badge" />
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows10-0078D6?style=plastic&logo=windows&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/WindowsXP-003399?style=plastic&logo=windows-xp&logoColor=white" alt="badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="badge" />
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=plastic&logo=kali-linux&logoColor=black" alt="badge" />
+</p>
+
 <h3 align="left">Cloud Services:</h3>
 <p>
   <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="badge" />
