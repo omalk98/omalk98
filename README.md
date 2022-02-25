@@ -15,7 +15,7 @@
 <a href="https://instagram.com/omar_010751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar_010751" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Technologies I Use:</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" alt="badge" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC" alt="badge" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=black&logo=powershell&logoColor=white" alt="badge" />
 </p>
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases I Like:</h3>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B" alt="badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192" alt="badge" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D" alt="badge" />
 </p>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks I've Worked With:</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D" alt="badge" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white" alt="badge" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=mui&logoColor=0081CB" alt="badge" />
 </p>
 
-<h3 align="left">Operating Systems:</h3>
+<h3 align="left">My Favorite Operating Systems:</h3>
 <p>
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=white" alt="badge" />
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&labelColor=black&logo=kali-linux&logoColor=557C94" alt="badge" />
 </p>
 
-<h3 align="left">Cloud Services:</h3>
+<h3 align="left">Cloud Services I Like to Use:</h3>
 <p>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=430098" alt="badge" />
   <img src="https://img.shields.io/badge/GitHub--Pages-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="badge" />
