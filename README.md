@@ -58,6 +58,7 @@
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420" alt="badge" />
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&labelColor=black&logo=kali-linux&logoColor=557C94" alt="badge" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&labelColor=black&logo=Pop!_OS&logoColor=48B9C7" alt="badge" />
 </p>
 
 <h3 align="left">Cloud Services I Like to Use:</h3>
