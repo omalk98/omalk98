@@ -49,16 +49,18 @@
 
 <h3 align="left">My Favorite Operating Systems:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=white" alt="badge" />
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=white" alt="badge" />
-  <img src="https://img.shields.io/badge/WindowsXP-003399?style=for-the-badge&labelColor=black&logo=windows-xp&logoColor=white" alt="badge" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=white&logo=linux&logoColor=black" alt="badge" />
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420" alt="badge" />
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&labelColor=black&logo=kali-linux&logoColor=557C94" alt="badge" />
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&labelColor=black&logo=Pop!_OS&logoColor=48B9C7" alt="badge" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&labelColor=black&logo=Fedora&logoColor=51A2DA" alt="badge" />
+  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&labelColor=black&logo=openSUSE&logoColor=73BA25" alt="badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=white" alt="badge" />
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=white" alt="badge" />
+  <img src="https://img.shields.io/badge/WindowsXP-003399?style=for-the-badge&labelColor=black&logo=windows-xp&logoColor=white" alt="badge" />
 </p>
 
 <h3 align="left">Cloud Services I Like to Use:</h3>
