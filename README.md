@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omalk98&label=Profile%20views&color=0e75b6&style=flat" alt="omalk98" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, Java, and C++**
+- 🌱 I’m currently Improving my knowledge **React, Next.js, and Python** and learning **GoLang and Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omalk98?tab=repositories](https://github.com/omalk98?tab=repositories)
 
-- 💬 Ask me about **C++ or React**
+- 💬 Ask me about **Linux, React, or Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,17 +34,21 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192" alt="badge" />
   <img src="https://img.shields.io/badge/MSSQL-4A4A55?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D" alt="badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1" alt="badge" />
 </p>
 
 <h3 align="left">Frameworks I've Worked With:</h3>
 <p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8" alt="badge" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D" alt="badge" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white" alt="badge" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD" alt="badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB" alt="badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031" alt="badge" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF" alt="badge" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C" alt="badge" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=mui&logoColor=0081CB" alt="badge" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD" alt="badge" />
 </p>
 
 <h3 align="left">My Favorite Operating Systems:</h3>
@@ -59,6 +63,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=white" alt="badge" />
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows11-0078D4?style=for-the-badge&labelColor=black&logo=windows-11&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/WindowsXP-003399?style=for-the-badge&labelColor=black&logo=windows-xp&logoColor=white" alt="badge" />
 </p>
@@ -69,6 +74,9 @@
   <img src="https://img.shields.io/badge/GitHub--Pages-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Vercel-239120?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white" alt="badge" />
   <img src="https://img.shields.io/badge/Google--Maps-4285F4?style=for-the-badge&labelColor=black&logo=google-maps&logoColor=FF3E00" alt="badge" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7" alt="badge" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&labelColor=black&logo=stripe&logoColor=008CDD" alt="badge" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&labelColor=black&logo=twilio&logoColor=F22F46" alt="badge" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omalk98&theme=blue-green&show_icons=true&locale=en" alt="omalk98" /></p>
