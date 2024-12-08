@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Omar;Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+![Profile Visits](https://komarev.com/ghpvc/?username=omalk98&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 ## 🚀 About Me
 Based in Toronto, Canada, I'm a passionate software engineer specializing in modern web technologies and cloud solutions. With a strong background in full-stack development, I craft scalable and performant applications using cutting-edge technologies.
 
