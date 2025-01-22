@@ -3,7 +3,7 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=omalk98&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ## 🚀 About Me
-Based in Toronto, Canada, I'm a passionate software engineer specializing in modern web technologies and cloud solutions. With a strong background in full-stack development, I craft scalable and performant applications using cutting-edge technologies.
+Based in Canada, I'm a passionate software engineer specializing in modern web technologies and cloud solutions. With a strong background in full-stack development, I craft scalable and performant applications using cutting-edge technologies.
 
 ### 💻 Tech Stack
 
